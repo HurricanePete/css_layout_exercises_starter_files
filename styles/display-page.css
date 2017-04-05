@@ -1,0 +1,6 @@
+p{color: red;}
+main { margin-left: auto;margin-right: auto; width: 800px; }
+.top{ height: 200px; }
+.bottom{ height: 300px; }
+.top-left{ width: 50%; color: green;  }
+.top-right{ width: 50%; color: blue; }
