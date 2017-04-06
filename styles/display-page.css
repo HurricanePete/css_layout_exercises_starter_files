@@ -1,12 +1,11 @@
-main {font-size: 0;}
-.box-all {margin-right: auto; margin-left: auto; width: 800px;}
-.box {border: 1px solid black; display: inline-block;}
-.top-half {width: 50%; height: 200px;}
-.bottom-half {width: 33.33%; height: 300px;}
+main {font-size: 0; padding-top: 50px;}
+.box-parent {margin-left: auto; margin-right: auto; text-align: center; width: 800px; border: 1px solid black;}
+.box {display: inline-block; font-size: 0; border: 1px solid black;}
+.half {width: 50%; height: 200px;}
+.third {width: 33.333%; height: 300px}
 .green {background-color: green;}
-.blue {background-color: blue}
-.gray {background-color: gray}
+.blue {background-color: blue;}
+.gray {background-color: gray;}
 .black {background-color: black;}
 .orange {background-color: orange;}
-.top {text-align: center;}
-.bottom {text-align: center;}
+.position {text-align: center;}
