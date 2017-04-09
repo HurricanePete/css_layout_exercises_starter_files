@@ -34,7 +34,7 @@ nav a:hover {
 	color: black;
 }
 
-.logo {
+nav .logo {
 	left: 30px;
 	width: 30px;
 	height: 30px;
